@@ -28,8 +28,6 @@ Implementar boas práticas de versionamento de código utilizando Git, GitHub e 
 
 Veja em [`docs/fluxo-versionamento.png`](https://docs.google.com/document/d/1BYMXpScC3UMhhq8zgbvaA2OcYJ5hrqjCHltAZUxAXJs/edit?tab=t.0)
 
----
-
 ## 📌 Versão Atual
 
 **v1.0.0** - Estrutura inicial com boas práticas de versionamento
