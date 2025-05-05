@@ -26,7 +26,7 @@ Implementar boas práticas de versionamento de código utilizando Git, GitHub e 
 
 ## 🔁 Fluxograma de Versionamento
 
-Veja em [`docs/fluxo-versionamento.png`]([docs/fluxo-versionamento.png](https://docs.google.com/document/d/1BYMXpScC3UMhhq8zgbvaA2OcYJ5hrqjCHltAZUxAXJs/edit?tab=t.0))
+Veja em [`docs/fluxo-versionamento.png`](https://docs.google.com/document/d/1BYMXpScC3UMhhq8zgbvaA2OcYJ5hrqjCHltAZUxAXJs/edit?tab=t.0)
 
 ## 📦 Exemplo de aplicação
 
